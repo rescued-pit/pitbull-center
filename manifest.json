@@ -1,0 +1,26 @@
+{
+  "name": "Rescued-Pitbulls-Center",
+  "short_name": "Rescued-Pitbulls",
+  "theme_color": "#ff4880",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/images/favicon/apple-touch-icon.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
