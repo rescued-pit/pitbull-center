@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621274184231,
+  "timestamp": 1621275577535,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d5552827e721c236e2a8.js",
+        "/main.878192e3648b29a9c6b1.js",
         "/polyfills-es5.dac42b74d0f066470155.js",
         "/polyfills.4ad41e5e9c953996b953.js",
         "/runtime.69aad174de386c36a16c.js",
@@ -775,8 +775,8 @@
     "/assets/language-switcher/gb.html": "a82190fc530c265aa40a045c21770d967f4767b8",
     "/assets/language-switcher/it.html": "a82190fc530c265aa40a045c21770d967f4767b8",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "baffb7c0f51f5a72408237193a2a195e3b4c1ef3",
-    "/main.d5552827e721c236e2a8.js": "5cc1c077b014d43277402b78cbabc4260403ae34",
+    "/index.html": "23643d04c639cb97aa5d1c03b54cb3ec0d2bf066",
+    "/main.878192e3648b29a9c6b1.js": "513c2df0cb5cc2f78a1a2409a724cb509c523c0c",
     "/polyfills-es5.dac42b74d0f066470155.js": "a6e04cd68b9db87176561fd80ae8a26c5dc1bd3c",
     "/polyfills.4ad41e5e9c953996b953.js": "6e5b143eeb766f9c1fbcecfa2e553b7228fd5552",
     "/runtime.69aad174de386c36a16c.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
